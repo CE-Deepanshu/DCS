@@ -10,3 +10,12 @@ A web-based platform for uploading and managing structural design assignments/ R
 
 
 ### [Answer 1.](Cantilever_slab_design1.html)
+
+---
+
+### Question 2
+
+<img width="1215" height="337" alt="image" src="https://github.com/user-attachments/assets/3563069e-e3b0-4443-874f-c2044e275c7b" />
+
+
+### [Answer 2.](Cantilever_slab_design2.html)
