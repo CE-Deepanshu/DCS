@@ -26,4 +26,4 @@ A web-based platform for uploading and managing structural design assignments/ R
 ---
 # Design of Steel Structures
 
-## <span style="color:green; font-weight:Bold ; font-size:0.7em;">📝 REVISION QUESTION BANK: [Click here to open](RevQues.md)</span>
+## <span style="color:green; font-weight:Bold ; font-size:0.7em;">📝 REVISION QUESTION BANK: [Click here to open](RevQues_DSS.md)</span>
